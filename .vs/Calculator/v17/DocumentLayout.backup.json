@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "I:\\ThuMucDemo\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD9DB84A-FC7E-4F12-9078-F8C66B8DE278}|Calculator\\Calculator.csproj|i:\\thumucdemo\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD9DB84A-FC7E-4F12-9078-F8C66B8DE278}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD9DB84A-FC7E-4F12-9078-F8C66B8DE278}|Calculator\\Calculator.csproj|I:\\ThuMucDemo\\Calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BD9DB84A-FC7E-4F12-9078-F8C66B8DE278}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9DB84A-FC7E-4F12-9078-F8C66B8DE278}|Calculator\\Calculator.csproj|i:\\thumucdemo\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9DB84A-FC7E-4F12-9078-F8C66B8DE278}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "I:\\ThuMucDemo\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "I:\\ThuMucDemo\\Calculator\\Calculator\\Form1.cs",
-              "RelativeToolTip": "Calculator\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAAtAAAAAAAAAA==",
+              "ToolTip": "I:\\ThuMucDemo\\Calculator\\Calculator\\Form1.cs*",
+              "RelativeToolTip": "Calculator\\Form1.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T07:57:58.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "I:\\ThuMucDemo\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "E:\\T\u00E0i Li\u1EC7u C\u1EE7a C\u01B0\u1EDDng\\Demo\\ThuMuc1\\Calculator\\Calculator\\Form1.cs [Design]",
+              "ToolTip": "I:\\ThuMucDemo\\Calculator\\Calculator\\Form1.cs [Design]*",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T02:55:57.576Z"
+              "WhenOpened": "2025-02-15T02:55:57.576Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
