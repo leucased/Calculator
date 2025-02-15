@@ -31,5 +31,9 @@ namespace Calculator
             }
         }
 
+        private void txt_kq_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
